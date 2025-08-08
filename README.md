@@ -30,7 +30,7 @@
 MIT
 
 ---
-🌐 Connect
+## 🌐 Connect
 Built with ❤️ by 
 **Vijay Kumar Saravanan**
 <p align="left">
